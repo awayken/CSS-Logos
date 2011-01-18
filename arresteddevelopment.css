@@ -1,0 +1,4 @@
+.arresteddevelopment { font-family: arial, sans-serif; font-size: 4em; letter-spacing: -.12em; text-transform: uppercase; color: black; text-align: center; clear: both; font-weight: bold; width: 8em; margin: 8px auto; }
+.arresteddevelopment .top span, .arresteddevelopment .bottom span { text-transform: lowercase; }
+.arresteddevelopment .top { display: block; position: relative; z-index: 1; }
+.arresteddevelopment .bottom { display: block; color: #F88228; margin-top: -.5em; }

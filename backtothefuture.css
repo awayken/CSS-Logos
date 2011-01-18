@@ -1,0 +1,4 @@
+.backtothefuture { background: #1F3777; color: silver; text-transform: uppercase; font-family: impact, sans-serif; font-size: 4em; width: 4em; margin: 0 auto; }
+.backtothefuture .top { display: block; }
+.backtothefuture .bottom { margin-top: -.4em; display: block; }
+.backtothefuture .bottom span { display: block; float: left; width: 1.5em; font-size: .4em; text-align: center; line-height: 1.1em; padding-top: .5em; }

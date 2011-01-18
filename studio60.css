@@ -1,0 +1,4 @@
+.studio60 { background: black; color: white; text-transform: uppercase; font-size: 4em; font-family: arial, sans-serif; width: 8em; padding: .4em; margin: 8px auto; }
+.studio60 .top { position: relative; width: 5.2em; border: .04em solid #FF9A00; font-weight: bold; display: block; margin: 0 auto; padding-left: .1em; }
+.studio60 .top span { position: absolute; top: 0; right: 0; background: #FF9A00; color: black; display: block; text-align: center; padding: 0 .1em; }
+.studio60 .bottom { display: block; font-size: .25em; text-align: right; font-weight: normal; margin: 0 auto; padding: .6em 6em; }
